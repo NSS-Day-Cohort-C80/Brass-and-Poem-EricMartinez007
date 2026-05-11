@@ -51,10 +51,14 @@ List<Product> products = new List<Product>()
         ProductTypeId = 2
     }
 };
+
 //put your greeting here
+
 Console.WriteLine("Welcome to Brass & Poem!");
 Console.WriteLine("EST. 2078");
+
 //implement your loop here
+
 string choice = null;
 while (choice != "5")
 {
