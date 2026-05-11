@@ -93,12 +93,11 @@ while (choice != "5")
 
 void DisplayMenu()
 {
-    Console.WriteLine(@"
-    1. Display all products
-    2. Delete a product
-    3. Add a new product
-    4. Update product properties
-    5. Exit
+    Console.WriteLine(@"1. Display all products
+2. Delete a product
+3. Add a new product
+4. Update product properties
+5. Exit
     ");     
 }
 
